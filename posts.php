@@ -6,7 +6,7 @@ if(!isset($_SESSION['user_id']))
 <div class="container py-5 nt-4">
 <div class="card">
     <div class="card-header d-flex justify-content-between">
-        <h3 class="card-title">My Posted Recipe List</h3>
+        <h3 class="card-title">Posted Recipe List</h3>
         <div class="card-tools align-middle">
             <a class="btn btn-dark btn-sm py-1 rounded-0" href="./?page=manage_recipe" id="create_new">Add New</a>
         </div>
